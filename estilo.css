@@ -1,0 +1,23 @@
+tbody{
+    color: rgb(34, 26, 26);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table{
+    border: rgb(5, 3, 3);
+    font-size: 20px;
+    
+}
+button{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+p{
+    font-size: 20PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
